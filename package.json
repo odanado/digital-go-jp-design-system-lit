@@ -20,5 +20,8 @@
   "scripts": {
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
+  },
+  "overrides": {
+    "esbuild": "0.21.4"
   }
 }
